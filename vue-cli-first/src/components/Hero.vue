@@ -1,6 +1,6 @@
 <template>
         <div>
-            <img src="https://media.gettyimages.com/photos/the-jumbotron-during-the-att-wnba-allstar-game-2021-on-july-14-2021-picture-id1233984128?s=612x612" alt="">
+            <img class="rounded" src="https://media.gettyimages.com/photos/the-jumbotron-during-the-att-wnba-allstar-game-2021-on-july-14-2021-picture-id1233984128?s=612x612" alt="">
         </div>
 </template>
 

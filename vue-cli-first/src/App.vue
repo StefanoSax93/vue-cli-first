@@ -1,6 +1,6 @@
 /*
 <template>
-  <div>
+  <div class="container text-center">
     <Title/>
     <Hero/>
   </div>
